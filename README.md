@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Checkout deployed app - [ https://corona-tracker-68a8e.web.app/ ]
+
 ## Available Scripts
 
 In the project directory, you can run:
