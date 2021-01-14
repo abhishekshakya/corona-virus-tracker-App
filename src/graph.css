@@ -1,0 +1,8 @@
+.graph {
+  padding: 10px;
+}
+@media (max-width: 1850px) {
+  .graph {
+    /* display: none; */
+  }
+}

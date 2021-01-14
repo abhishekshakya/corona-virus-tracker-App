@@ -1,0 +1,15 @@
+.header {
+  background-color: #4e4e7a;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 34px;
+  font-weight: 650;
+}
+
+@media (max-width: 1800px) {
+  .header {
+    padding: 5px;
+    font-size: 24px;
+  }
+}

@@ -1,0 +1,11 @@
+.overall {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+@media (max-width: 1850px) {
+  .overall {
+    padding: 15px;
+  }
+}
