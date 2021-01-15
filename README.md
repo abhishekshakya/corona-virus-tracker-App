@@ -129,13 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-<<<<<<< HEAD
 Abhishek Shakya - [LinkedIn](https://www.linkedin.com/in/abhishek-shakya-374042175/) - abhishek.shakya112014@gmail.com
-=======
-##Checkout deployed app - [ https://corona-tracker-68a8e.web.app/ ]
-
-## Available Scripts
->>>>>>> 26a58069adb766a3f28e431a60b2a62155920264
 
 Project Link: [https://desire-hub-43c87.web.app/](https://corona-tracker-68a8e.web.app/)
 
