@@ -14,6 +14,7 @@ function Overall() {
     };
     fetchData();
   }, []);
+  // console.log(data);
   return (
     <div className="overall">
       <Card cases={data?.TotalConfirmed} topic="Total Confirmed" />
